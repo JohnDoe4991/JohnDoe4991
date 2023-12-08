@@ -28,16 +28,24 @@
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database & ORM
 ![Databases](https://img.shields.io/badge/-Databases-006400?style=for-the-badge)
-![ORM](https://img.shields.io/badge/-ORM-FF4500?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-orange?style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### State Management
 ![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Additional 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ## **Github Stats**
 
