@@ -42,6 +42,8 @@
 ## **Github Stats**
 
 [![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnDoe4991&show_icons=true)](https://github.com/JohnDoe4991)
+![Screenshot 2023-12-07 at 4 26 07 PM](https://github.com/JohnDoe4991/JohnDoe4991/assets/127167614/2ba74f11-9467-41fd-b535-db3d31ea212b)
+
 
 ## **Project Showcase**
 
