@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi, I'm John Dorsey</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github;Bootcamp+Grad+Full-Stack+Developer;Ready+to+change+the+world;Active+Learner/Researcher;Love+learning+new+technologies+and+solving+problems">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Full-Stack+Developer;Coding+with+Purpose+and+Passion;Innovating+for+a+Better+Tomorrow;Exploring+Tech+Frontiers;Transforming+Ideas+into+Reality;Building+the+Future+of+Tech;Embracing+Challenges+Head-On;Crafting+Exceptional+Digital+Experiences">
 </p>
+
 
 ## **About me**
 
