@@ -12,7 +12,7 @@
 - Playing soccer in my spare time.
 - Currently looking for my first software engineer job.
 - Personal website: [link](https://johndoe4991.github.io/)
-- This is [my resume]([https://docs.google.com/document/d/11Wqzbax19AJEDFtfINg08QsQO73w3_OO5IvNGZYWnn8/edit](https://docs.google.com/document/d/e/2PACX-1vRYpH3osk8zQWzTCy0ECoHAcHkRkXpPxAs9ZzB2pZSv8p5GsJ_dAa3FH9xc-ll0pIb4L7eKVecKSVu6/pub)).
+- This is [my resume](https://docs.google.com/document/d/e/2PACX-1vRYpH3osk8zQWzTCy0ECoHAcHkRkXpPxAs9ZzB2pZSv8p5GsJ_dAa3FH9xc-ll0pIb4L7eKVecKSVu6/pub).
 
 ## **Skills**
 
