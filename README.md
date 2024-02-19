@@ -37,6 +37,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<img src='https://img.shields.io/badge/Next.JS-101010?style=for-the-badge&logo=Next.js&logoColor=ffffff'/>
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -56,10 +57,6 @@
 
 ### State Management
 ![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### Framework
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src='https://img.shields.io/badge/Next.JS-101010?style=for-the-badge&logo=Next.js&logoColor=ffffff'/>
 
 ### Version Control
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
