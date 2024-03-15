@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I'm John Dorsey</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h1 align="center">(Or in Spain John Tejada ... pretty cool being a dual citizen🇪🇸)</h1>
+<h2 align="center">(Or in Spain John Tejada ... pretty cool being a dual citizen🇪🇸)</h2>
 
 
 <p align="center">
