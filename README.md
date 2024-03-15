@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Full-Stack+Developer;Coding+with+Purpose+and+Passion;Innovating+for+a+Better+Tomorrow;Exploring+Tech+Frontiers;Transforming+Ideas+into+Reality;Building+the+Future+of+Tech;Embracing+Challenges+Head-On;Crafting+Exceptional+Digital+Experiences">
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "1000">
+</p>
+
 
 
 ## **About me**
