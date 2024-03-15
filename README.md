@@ -99,8 +99,6 @@
 <b>"La mejor manera de predecir el futuro es inventarlo"</b>
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
