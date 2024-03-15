@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Full-Stack+Developer;Coding+with+Purpose+and+Passion;Innovating+for+a+Better+Tomorrow;Exploring+Tech+Frontiers;Transforming+Ideas+into+Reality;Building+the+Future+of+Tech;Embracing+Challenges+Head-On;Crafting+Exceptional+Digital+Experiences">
 </p>
 
+
+
 ## **About me**
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
@@ -96,6 +98,9 @@
 <div align='center'>
 <b>"La mejor manera de predecir el futuro es inventarlo"</b>
 </div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ciaracade/ciaracade/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ---
 
