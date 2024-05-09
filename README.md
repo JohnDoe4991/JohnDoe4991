@@ -19,7 +19,7 @@
 - A passionate Full-Stack developer with experience in working on shared codebases, emphasizing collaboration and quality coding practices.
 - Playing soccer in my spare time.
 - Personal website: [link](https://johndoe4991.github.io/)
-- This is [my resume]([https://docs.google.com/document/d/e/2PACX-1vRYpH3osk8zQWzTCy0ECoHAcHkRkXpPxAs9ZzB2pZSv8p5GsJ_dAa3FH9xc-ll0pIb4L7eKVecKSVu6/pub](https://flowcv.com/resume/lpoig25jm7)).
+- This is [my resume](https://flowcv.com/resume/lpoig25jm7).
 
 <h2 align="center"> Github Stats 🖥⌨🖱</h2>
 
