@@ -39,12 +39,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-
 ### Front-End Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 <img src='https://img.shields.io/badge/Next.JS-101010?style=for-the-badge&logo=Next.js&logoColor=ffffff'/>
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -52,7 +53,8 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 <img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 
 ### Database & ORM
 ![Databases](https://img.shields.io/badge/-Databases-006400?style=for-the-badge)
