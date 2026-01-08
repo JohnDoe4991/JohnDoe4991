@@ -21,12 +21,16 @@
 - Personal website: [link](https://johndoe4991.github.io/)
 - This is [my resume](https://flowcv.com/resume/lpoig25jm7).
 
-<h2 align="center"> Github Stats 🖥⌨🖱</h2>
+<h2 align="center">GitHub Stats 🖥⌨🖱</h2>
 
-<div align="center" display="flex" flex-wrap="row-wrap">
-    <p display="flex" flex-direction="column">    
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=JohnDoe4991&&hide_border=true&border_radius=6&theme=shadow_green&background=00000000&text_color=7f7f7f" alt="JohnDoe4991's GitHub Contribution 1"/>
-    </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDoe4991&theme=shadow_green&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDoe4991&layout=compact&theme=shadow_green&hide_border=true" />
+</p>
+
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDoe4991&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f" alt="JohnDoe4991's GitHub Contribution 3 - May need a refresh to see properly"/>
 <!--       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simpsonc86&theme=transparent" alt="Simpsonc86's GitHub Contribution 4"/> -->
     
