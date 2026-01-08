@@ -1,25 +1,26 @@
-<h1 align="center"><b>Hi, I'm John Dorsey</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">(Or in Spain John Tejada ... pretty cool being a dual citizen🇪🇸)</h2>
-
+<h1 align="center"><b>Hi, I’m John Dorsey</b> 👋</h1>
+<h3 align="center">Full-Stack Developer · Product Builder · Dual Citizen 🇺🇸 🇪🇸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Passionate+Full-Stack+Developer;Coding+with+Purpose+and+Passion;Innovating+for+a+Better+Tomorrow;Exploring+Tech+Frontiers;Transforming+Ideas+into+Reality;Building+the+Future+of+Tech;Embracing+Challenges+Head-On;Crafting+Exceptional+Digital+Experiences">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=24&center=true&vCenter=true&width=650&height=90&lines=Building+real+products;Turning+ideas+into+tools;Clarity+over+complexity;Learning+fast+and+shipping+faster">
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width = "1000">
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="1000" />
 </p>
 
+---
 
+## About Me
 
-## **About me**
+I’m a full-stack developer focused on building products people actually use.
 
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+I enjoy working across shared codebases, designing systems that scale, and turning ideas into tools that feel intentional and useful. Outside of code, I play soccer and stay curious.
 
-- A passionate Full-Stack developer with experience in working on shared codebases, emphasizing collaboration and quality coding practices.
-- Playing soccer in my spare time.
-- Personal website: [link](https://johndoe4991.github.io/)
-- This is [my resume](https://flowcv.com/resume/lpoig25jm7).
+- 🌐 Personal site: https://johndoe4991.github.io  
+- 📄 Resume: https://flowcv.com/resume/lpoig25jm7  
+
+---
 
 <h2 align="center">GitHub Stats 🖥⌨🖱</h2>
 
@@ -31,93 +32,65 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDoe4991&layout=compact&theme=shadow_green&hide_border=true" />
 </p>
 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDoe4991&langs_count=20&layout=pie&theme=shadow_green&bg_color=00000000&hide_border=true&size_weight=0.5&count_weight=0.5&text_color=7f7f7f" alt="JohnDoe4991's GitHub Contribution 3 - May need a refresh to see properly"/>
-<!--       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simpsonc86&theme=transparent" alt="Simpsonc86's GitHub Contribution 4"/> -->
-    
-</div>
-
-## **Skills**
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-
-### Front-End Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-<img src='https://img.shields.io/badge/Next.JS-101010?style=for-the-badge&logo=Next.js&logoColor=ffffff'/>
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
-
-### Back-End Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-<img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
-
-### Database & ORM
-![Databases](https://img.shields.io/badge/-Databases-006400?style=for-the-badge)
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-orange?style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-
-### State Management
-![Redux.js](https://img.shields.io/badge/-Redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### Version Control
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
-### Additional 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-
-## **Github Stats**
-
-[![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnDoe4991&show_icons=true)](https://github.com/JohnDoe4991)
-
-
-## **Project Showcase**
+---
 
 ## Project Showcase
 
 ### Illuma — AI Learning Workspace
-[![Illuma Preview](https://raw.githubusercontent.com/JohnDoe4991/JohnDoe4991/main/assets/illuma.jpg)](https://illumalearn.com)
+<a href="https://illumalearn.com">
+  <img src="https://raw.githubusercontent.com/JohnDoe4991/JohnDoe4991/main/assets/illuma.jpg" />
+</a>
 
 Illuma is an AI-powered learning workspace designed to help people actually understand complex material.  
 Instead of shallow summaries, Illuma provides guided explanations, structure, and context so learning feels like steady progress toward real capability.
 
 - 🌐 Live: https://illumalearn.com
 
+---
+
 ### FleetWizard — Operations Platform
-[![FleetWizard Preview](https://raw.githubusercontent.com/JohnDoe4991/JohnDoe4991/main/assets/FleetWizard.jpg)](https://www.fleetwizard.net/)
+<a href="https://www.fleetwizard.net/">
+  <img src="https://raw.githubusercontent.com/JohnDoe4991/JohnDoe4991/main/assets/FleetWizard.jpg" />
+</a>
 
 FleetWizard is an operations platform built to bring clarity and control to daily fleet workflows.  
 Focused on reducing chaos, improving visibility, and helping operators run tighter, more reliable operations.
 
 - 🌐 Live: https://www.fleetwizard.net/
 
+---
 
-## **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/linkedin-JohnDorsey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johndorsey1994/)
+## Skills
 
-## **Motto**
-<div align='center'>
-<b>"La mejor manera de predecir el futuro es inventarlo"</b>
-</div>
+**Languages**  
+JavaScript · Python · Swift  
 
+**Frontend**  
+HTML · CSS · React · Next.js · Tailwind · Alpine  
+
+**Backend**  
+Node · Express · Flask · Laravel · Livewire  
+
+**Data**  
+PostgreSQL · SQLite · SQLAlchemy · Sequelize  
+
+**Tools**  
+Docker · AWS · Git · GitHub · Postman · VS Code  
 
 ---
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+## Let’s Connect
+<a href="https://www.linkedin.com/in/johndorsey1994/">
+  <img src="https://img.shields.io/badge/LinkedIn-John_Dorsey-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+---
+
+## Motto
+<div align="center">
+  <b>"La mejor manera de predecir el futuro es inventarlo"</b>
+</div>
+
+---
+
+Credit: <a href="https://github.com/0xabdulkhalid">Abdul Khalid</a>
