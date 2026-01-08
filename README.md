@@ -86,16 +86,24 @@
 
 ## **Project Showcase**
 
-### Illuma
-**Description**: Illuma is an AI-powered learning workspace that turns complex files into clear, practical understanding. Upload documents and get structured explanations, summaries, and actionable takeaways.
-- [Live](https://illumalearn.com)
+## Project Showcase
 
+### Illuma — AI Learning Workspace
+[![Illuma Preview](https://raw.githubusercontent.com/JohnDoe4991/JohnDoe4991/main/assets/illuma.jpg)](https://illumalearn.com)
 
-### ShutterScape
-![ShutterScape](https://galictogear.s3.us-west-1.amazonaws.com/port2.png)
-**Description**: ShutterScape is a sophisticated platform, designed as a replica of Flickr. It offers features for creating, updating, and managing photo posts. Users can create photo albums, group photos, and manage album contents. The platform also supports commenting on posts, favoriting posts, and includes a dynamic search feature and tagging system.
-- [Code](https://github.com/ryanfour1637/ShutterScape)
-- [Demo](https://shutterscape.onrender.com/)
+Illuma is an AI-powered learning workspace designed to help people actually understand complex material.  
+Instead of shallow summaries, Illuma provides guided explanations, structure, and context so learning feels like steady progress toward real capability.
+
+- 🌐 Live: https://illumalearn.com
+
+### FleetWizard — Operations Platform
+[![FleetWizard Preview](https://raw.githubusercontent.com/JohnDoe4991/JohnDoe4991/main/assets/FleetWizard.jpg)](https://www.fleetwizard.net/)
+
+FleetWizard is an operations platform built to bring clarity and control to daily fleet workflows.  
+Focused on reducing chaos, improving visibility, and helping operators run tighter, more reliable operations.
+
+- 🌐 Live: https://www.fleetwizard.net/
+
 
 ## **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/linkedin-JohnDorsey-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/johndorsey1994/)
