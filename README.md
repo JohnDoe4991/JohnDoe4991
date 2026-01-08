@@ -86,11 +86,10 @@
 
 ## **Project Showcase**
 
-### Galactico Gear
-![Galactico Gear](https://galictogear.s3.us-west-1.amazonaws.com/port1.png)
-**Description**: GalacticoGear is a dynamic e-commerce platform, combining a Flask backend with a React frontend powered by Redux for robust state management. It enables users to create, review, delete, and explore products. Features include an intuitive search bar, review system, and a fully functional shopping cart. Additionally, users can curate their favorite products on a dedicated Favorites page.
-- [Code](https://github.com/JohnDoe4991/GalacticoGear)
-- [Demo](https://galacticogear.onrender.com/)
+### Illuma
+**Description**: Illuma is an AI-powered learning workspace that turns complex files into clear, practical understanding. Upload documents and get structured explanations, summaries, and actionable takeaways.
+- [Live](https://illumalearn.com)
+
 
 ### ShutterScape
 ![ShutterScape](https://galictogear.s3.us-west-1.amazonaws.com/port2.png)
